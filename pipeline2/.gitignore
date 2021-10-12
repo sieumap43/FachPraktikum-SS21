@@ -1,0 +1,45 @@
+#################################
+# GazeML
+#################################
+# Datasets folder
+GazeML/datasets/*
+
+# Outputs folder
+GazeML/outputs*/
+
+# 3rd party files
+GazeML/src/3rdparty
+
+# Temporary files
+GazeML/*.pyc
+GazeML/__pycache__/
+
+# Python package caches
+GazeML/dist/
+GazeML/*.egg-info/
+
+# Misc
+GazeML/*.mp4
+
+#################################
+# gaze_redirection
+#################################
+gaze_redirection/lsf.*
+gaze_redirection/*.pyc
+gaze_redirection/.idea/
+gaze_redirection/test.ipynb
+gaze_redirection/.ipynb_checkpoints/*
+gaze_redirection/models/
+gaze_redirection/*.log
+gaze_redirection/.DS_Store
+gaze_redirection/gaze_playground.ipynb
+gaze_redirection/venv/
+gaze_redirection/dataset/
+gaze_redirection/dataset*
+gaze_redirection/*/.ropeproject/
+gaze_redirection/.vscode/
+gaze_redirection/mpiigaze*/
+gaze_redirection/*_run/
+gaze_redirection/vgg_16*
+gaze_redirection/log*/
+
