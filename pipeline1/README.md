@@ -1,3 +1,7 @@
+# Gaze Redirection for Full Face Images
+
+The following pipeline was used for Gaze Redirection for full face images. [Gaze Redirection](https://github.com/zhengyuf/STED-gaze)
+
 # Gaze Estimation for Full Face Images
 
 This repository contains the implementation to develop a gaze estimator for 128x128 full face images. 
